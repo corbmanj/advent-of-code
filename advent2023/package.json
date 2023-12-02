@@ -1,0 +1,7 @@
+{
+  "name": "advent2021",
+  "type": "module",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
